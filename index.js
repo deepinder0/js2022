@@ -17,8 +17,3 @@ var myName = 'Deepinder Singh';
 var myAge = 21;
 
 console.log(myName + myAge);
-
-// var _myName = 'vinod';
-// var _1my__Name = 'bahadur';
-// var 1myName = 'thapa'
-// var $myName = 'thapa technical';
